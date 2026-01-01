@@ -1,0 +1,146 @@
+05/13/25:19:53:10: prediction of DRD2 complete: AUC of 0.8894037002289255, lift of 10.410493357396012
+05/13/25:20:15:55: prediction of CA12 complete: AUC of 0.9406589993274399, lift of 25.378732643848924
+05/13/25:20:42:01: prediction of hERG complete: AUC of 0.8028413317404144, lift of 5.987914839589481
+05/13/25:21:19:04: prediction of Other MAPK complete: AUC of 0.7512696106374541, lift of 6.257371007371007
+05/13/25:21:46:48: prediction of 5-HT1A complete: AUC of 0.8993553162625285, lift of 17.74944019819366
+05/13/25:22:10:25: prediction of Other 5HT Receptor complete: AUC of 0.8179715448735171, lift of 9.237071487071487
+05/13/25:22:33:51: prediction of Other Cytochrome P450 complete: AUC of 0.7702294333395749, lift of 13.14981847519161
+05/13/25:22:57:16: prediction of HDAC1 complete: AUC of 0.8967786481522706, lift of 32.22546068796069
+05/13/25:23:19:59: prediction of EGFR complete: AUC of 0.7270376075521426, lift of 5.490338432273916
+05/13/25:23:45:20: prediction of SIGMAR1 complete: AUC of 0.912226141719227, lift of 23.004444868522537
+05/14/25:00:12:26: prediction of ACHE complete: AUC of 0.7940553318414716, lift of 13.575313371923542
+05/14/25:00:34:44: prediction of Other CDK complete: AUC of 0.775447978854702, lift of 7.071527086396975
+05/14/25:00:56:24: prediction of Other GPCR complete: AUC of 0.7234272871765973, lift of 5.518311439571282
+05/14/25:01:17:55: prediction of HDAC3 complete: AUC of 0.9207809139784946, lift of 27.04799080605532
+05/14/25:01:40:23: prediction of Other Cathepsin complete: AUC of 0.8275109052735958, lift of 11.94823105934217
+05/14/25:02:02:48: prediction of KDR complete: AUC of 0.819053090777037, lift of 11.454170657560487
+05/14/25:02:25:19: prediction of F2 complete: AUC of 0.817976871137507, lift of 11.552069552069552
+05/14/25:02:47:25: prediction of HRH3 complete: AUC of 0.9557516714786395, lift of 37.812782739821365
+05/14/25:03:08:56: prediction of JAK2 complete: AUC of 0.8471689868479804, lift of 8.164123546097795
+05/14/25:03:30:39: prediction of EPHX2 complete: AUC of 0.8676246081640429, lift of 19.32100521574206
+05/14/25:03:51:53: prediction of Integrin complete: AUC of 0.9214464303992165, lift of 21.55004902986966
+05/14/25:04:13:26: prediction of SLC6A2 complete: AUC of 0.9347353234390019, lift of 25.029484029484028
+05/14/25:04:35:25: prediction of CC Chemokine Receptor complete: AUC of 0.8393162849220187, lift of 19.55792240443403
+05/14/25:04:56:59: prediction of Other Prostaglandin Synthase complete: AUC of 0.7606565666114382, lift of 6.081930698753129
+05/14/25:05:18:16: prediction of 5-HT2A complete: AUC of 0.8511408329640422, lift of 7.953293990677168
+05/14/25:05:40:07: prediction of CA1 complete: AUC of 0.9154739585902939, lift of 33.37264537264537
+05/14/25:06:02:17: prediction of Prostaglandin Receptor complete: AUC of 0.8824363236488793, lift of 22.993592984023607
+05/14/25:06:24:33: prediction of nAChR complete: AUC of 0.9010250906048289, lift of 33.53464850552229
+05/14/25:06:46:40: prediction of CYP3A4 complete: AUC of 0.7650022802629339, lift of 5.3985161632220455
+05/14/25:07:08:30: prediction of Na+ Channel complete: AUC of 0.8455820744701088, lift of 17.60868223179781
+05/14/25:07:30:14: prediction of FLT3 complete: AUC of 0.7806826447913494, lift of 3.5574901158657504
+05/14/25:07:51:48: prediction of CNR1 complete: AUC of 0.8774468612458404, lift of 23.104139104139104
+05/14/25:08:13:42: prediction of PTPNs complete: AUC of 0.8290488483889712, lift of 10.268506268506268
+05/14/25:08:35:41: prediction of mGluR5 complete: AUC of 0.9371007321152645, lift of 46.40883497133497
+05/14/25:08:57:44: prediction of CHRM2 complete: AUC of 0.8990045444989762, lift of 23.18520625889047
+05/14/25:09:19:38: prediction of GSK3B complete: AUC of 0.7732321236095228, lift of 5.382684737523447
+05/14/25:09:41:25: prediction of ROCK2 complete: AUC of 0.8305873266285414, lift of 13.349058149058148
+05/14/25:10:03:29: prediction of DPP4 complete: AUC of 0.8809724989224927, lift of 35.506942460430835
+05/14/25:10:25:24: prediction of 11B-HSD1 complete: AUC of 0.9377584870882547, lift of 38.99942860407977
+05/14/25:10:46:58: prediction of ADRA2A complete: AUC of 0.9338963809619341, lift of 40.39846545109703
+05/14/25:11:08:22: prediction of iGluR complete: AUC of 0.8205435568532111, lift of 11.124215124215125
+05/14/25:11:30:31: prediction of ABL complete: AUC of 0.7825833838113286, lift of 3.5129100392258286
+05/14/25:11:54:12: prediction of ESR1 complete: AUC of 0.9292628141009471, lift of 40.04717444717445
+05/14/25:12:18:35: prediction of KDM1A complete: AUC of 0.9022119346037987, lift of 34.74681312328371
+05/14/25:12:43:15: prediction of ALOX5 complete: AUC of 0.8482938757658779, lift of 13.18918918918919
+05/14/25:13:06:51: prediction of IDO1 complete: AUC of 0.832435057859945, lift of 11.459281844824014
+05/14/25:13:55:38: prediction of CYP19A1 complete: AUC of 0.9117404735077159, lift of 30.945543890998437
+05/14/25:14:22:20: prediction of PPARG complete: AUC of 0.8940744879453033, lift of 22.386619256184474
+05/14/25:14:51:22: prediction of TRP channel complete: AUC of 0.8036509104665432, lift of 9.327758023410198
+05/14/25:15:20:05: prediction of RAF complete: AUC of 0.8351832050987167, lift of 10.571459093198223
+05/14/25:15:48:34: prediction of BTK complete: AUC of 0.8921395180580115, lift of 12.039498647093584
+05/14/25:16:20:30: prediction of MMP2 complete: AUC of 0.9120924644115675, lift of 22.95697898245669
+05/14/25:16:45:32: prediction of Other mAChR complete: AUC of 0.834741534590753, lift of 3.8261631637427818
+05/14/25:17:09:24: prediction of OPRM1 complete: AUC of 0.9024915629535397, lift of 22.95697898245669
+05/14/25:17:33:03: prediction of DRD1 complete: AUC of 0.8667721724882003, lift of 12.835632835632836
+05/14/25:17:56:30: prediction of FFAR complete: AUC of 0.9535678054536452, lift of 41.715806715806714
+05/14/25:18:20:02: prediction of Other Alpha-ARs complete: AUC of 0.8923794823787432, lift of 8.984942984942984
+05/14/25:18:44:13: prediction of Other PI Kinase complete: AUC of 0.8395543235751897, lift of 11.552069552069552
+05/14/25:19:19:11: prediction of Other HDAC complete: AUC of 0.9021191494092557, lift of 22.462357462357463
+05/14/25:19:41:20: prediction of F10 complete: AUC of 0.9061917556101758, lift of 23.899120234604105
+05/14/25:20:03:35: prediction of BCHE complete: AUC of 0.8462386252833994, lift of 20.023587223587224
+05/14/25:20:29:08: prediction of Other SLC transporter complete: AUC of 0.8118909838252598, lift of 7.801397619579438
+05/14/25:20:52:13: prediction of MAOA complete: AUC of 0.883091304428328, lift of 14.396043101925455
+05/14/25:21:27:07: prediction of MAOB complete: AUC of 0.9154035519039903, lift of 20.939699057346115
+05/14/25:21:49:57: prediction of AURKA complete: AUC of 0.8203599359036577, lift of 11.271555721886848
+05/14/25:22:13:39: prediction of PTGS2 complete: AUC of 0.8489008620689655, lift of 14.20592336808553
+05/14/25:22:36:21: prediction of Other Histamine Receptor complete: AUC of 0.914296937258641, lift of 31.54400727003467
+05/14/25:22:58:28: prediction of BACE1 complete: AUC of 0.7958525232125704, lift of 8.976090824366686
+05/14/25:23:20:31: prediction of BCL2 Family complete: AUC of 0.8161447900589981, lift of 11.81947856947857
+05/14/25:23:43:01: prediction of MMP9 complete: AUC of 0.9156900934773804, lift of 13.905268905268905
+05/15/25:00:04:53: prediction of KIT complete: AUC of 0.8554941058457328, lift of 7.755614769699276
+05/15/25:00:26:49: prediction of OPRK1 complete: AUC of 0.8698170776122033, lift of 9.165726546008235
+05/15/25:00:48:57: prediction of VDCC complete: AUC of 0.8361632881562635, lift of 15.511229539398553
+05/15/25:01:10:48: prediction of Other mGluR complete: AUC of 0.85691365152602, lift of 17.286550121082495
+05/15/25:01:32:38: prediction of PDE10A complete: AUC of 0.941575127850997, lift of 31.196168500516325
+05/15/25:01:54:33: prediction of CNR2 complete: AUC of 0.897663194700943, lift of 21.192847791387937
+05/15/25:02:16:21: prediction of ENPP complete: AUC of 0.8324782482430577, lift of 5.889290359878595
+05/15/25:02:38:33: prediction of SERT complete: AUC of 0.9210658692573351, lift of 21.506815906815905
+05/15/25:03:01:12: prediction of HRH1 complete: AUC of 0.9402882310079512, lift of 15.573901173901174
+05/15/25:03:24:47: prediction of FAAH1 complete: AUC of 0.905397851928127, lift of 24.65590964098427
+05/15/25:03:48:25: prediction of NPY Receptor complete: AUC of 0.8358700209837655, lift of 9.785963680700522
+05/15/25:04:12:09: prediction of AR complete: AUC of 0.8881232071931644, lift of 27.852358168147642
+05/15/25:04:35:49: prediction of Other NR family complete: AUC of 0.7254546088718583, lift of 9.10163055617601
+05/15/25:04:59:23: prediction of HSP90 complete: AUC of 0.8426956937333239, lift of 9.935367706360072
+05/15/25:05:22:14: prediction of CXC Chemokine Receptor complete: AUC of 0.8356371105469131, lift of 17.577958249713976
+05/15/25:05:44:18: prediction of RORG complete: AUC of 0.9141573872997533, lift of 24.059348989581547
+05/15/25:06:06:29: prediction of PIK3CD complete: AUC of 0.885438207779419, lift of 10.168227886977887
+05/15/25:06:28:45: prediction of MET complete: AUC of 0.8647108885403405, lift of 13.507975507975509
+05/15/25:06:51:08: prediction of CA2 complete: AUC of 0.9517220514648016, lift of 34.167232167232164
+05/15/25:07:13:25: prediction of Other Dopamine Receptor complete: AUC of 0.8724472351755598, lift of 7.151281151281151
+05/15/25:07:35:53: prediction of PDGFRB complete: AUC of 0.8269312458459495, lift of 6.407547911547912
+05/15/25:07:58:39: prediction of GABA Receptor complete: AUC of 0.8576743129756444, lift of 10.496235238170723
+05/15/25:08:21:21: prediction of ADRB2 complete: AUC of 0.8943335584740463, lift of 33.37264537264537
+05/15/25:08:43:31: prediction of SRC complete: AUC of 0.8482919824890557, lift of 7.325702642775814
+05/15/25:09:06:20: prediction of DYRK1A complete: AUC of 0.8930763267971008, lift of 14.771498771498772
+05/15/25:09:28:37: prediction of NAMPT complete: AUC of 0.9794491817805443, lift of 64.00982800982801
+05/15/25:09:50:47: prediction of RIPKs complete: AUC of 0.7692266641809775, lift of 5.744471744471745
+05/15/25:10:12:57: prediction of Other VEGFR complete: AUC of 0.8559219324134669, lift of 4.923832923832924
+05/15/25:10:35:16: prediction of Casein Kinase complete: AUC of 0.8487385846687878, lift of 11.583893435133104
+05/15/25:10:58:35: prediction of NOS complete: AUC of 0.9412492241958541, lift of 40.543627022965865
+05/15/25:11:21:39: prediction of TYK2 complete: AUC of 0.8658506243641495, lift of 3.337264537264537
+05/15/25:11:44:20: prediction of HDAC6 complete: AUC of 0.9574490909389255, lift of 52.56191646191646
+05/15/25:12:07:10: prediction of S1PR1 complete: AUC of 0.8823110498506777, lift of 15.017690417690417
+05/15/25:12:31:22: prediction of MCH1 complete: AUC of 0.9639150749893342, lift of 34.206961506961505
+05/15/25:12:56:31: prediction of BRD4 complete: AUC of 0.8981338825126153, lift of 12.61990791402556
+05/15/25:13:20:30: prediction of Other ESR/ERR complete: AUC of 0.8830785175817294, lift of 13.691341691341691
+05/15/25:13:46:25: prediction of TRPV1 complete: AUC of 0.9245228196223801, lift of 25.029484029484028
+05/15/25:14:10:44: prediction of LRRK2 complete: AUC of 0.923195206848642, lift of 18.4427777059356
+05/15/25:14:38:52: prediction of ADORA3 complete: AUC of 0.9140304895476867, lift of 21.077460235354973
+05/15/25:15:06:02: prediction of Kallikrein complete: AUC of 0.9080283644584217, lift of 9.66050260787103
+05/15/25:15:31:21: prediction of MAPK14 complete: AUC of 0.875342325537839, lift of 13.289991520080015
+05/15/25:15:55:28: prediction of LCK complete: AUC of 0.84889884151049, lift of 3.543997738688004
+05/15/25:16:20:46: prediction of TAAR1 complete: AUC of 0.934986622761885, lift of 24.80798417081603
+05/15/25:16:51:16: prediction of CYP1A2 complete: AUC of 0.8579164938196955, lift of 16.09038259038259
+05/15/25:17:27:14: prediction of K+ Channel complete: AUC of 0.8565414468286234, lift of 10.8235606613985
+05/15/25:17:50:34: prediction of CTSL complete: AUC of 0.9153129180480428, lift of 20.023587223587224
+05/15/25:18:13:46: prediction of APP complete: AUC of 0.9266522824584245, lift of 39.13701139155685
+05/15/25:18:36:45: prediction of USP30 complete: AUC of 0.9966010866318814, lift of 90.93280436399702
+05/15/25:19:01:45: prediction of P2RX7 complete: AUC of 0.953367206581286, lift of 47.76268512048328
+05/15/25:19:29:42: prediction of CSF1R complete: AUC of 0.8495344215605247, lift of 11.94067128012082
+05/15/25:20:13:05: prediction of S6 Kinase complete: AUC of 0.8158921378317294, lift of 5.562107562107562
+05/15/25:20:39:45: prediction of MGL complete: AUC of 0.9363557633778512, lift of 41.16999242232887
+05/15/25:21:05:17: prediction of FGFR1 complete: AUC of 0.8681551041752182, lift of 7.485453167696158
+05/15/25:21:29:13: prediction of RELA complete: AUC of 0.9447300927864615, lift of 29.941812670784632
+05/15/25:21:51:21: prediction of NTRK1 complete: AUC of 0.8253124520677636, lift of 6.549771521734138
+05/15/25:22:13:31: prediction of MMP1 complete: AUC of 0.9500045647011317, lift of 15.906587981354336
+05/15/25:22:36:20: prediction of PKC complete: AUC of 0.8785824776488307, lift of 24.55722961383339
+05/15/25:22:59:16: prediction of CYP2D6 complete: AUC of 0.9198334885465634, lift of 17.945667794724397
+05/15/25:23:22:14: prediction of Aldo-keto reductase complete: AUC of 0.9525076068859746, lift of 39.09367029367029
+05/15/25:23:45:08: prediction of PRSS1 complete: AUC of 0.9254190084862034, lift of 28.605124605124605
+05/16/25:00:08:03: prediction of Purinoreceptor complete: AUC of 0.8886583878439794, lift of 19.07008307008307
+05/16/25:00:30:34: prediction of Stromelysin complete: AUC of 0.9629473883930261, lift of 31.76819126819127
+05/16/25:00:53:45: prediction of ADORA2A complete: AUC of 0.9178478893658255, lift of 26.954828954828955
+05/16/25:01:16:40: prediction of Melatonin receptor complete: AUC of 0.9873294762023725, lift of 69.31241731241731
+05/16/25:01:40:19: prediction of PDE4B complete: AUC of 0.9092574691694488, lift of 20.216121716121716
+05/16/25:02:03:53: prediction of OPRD1 complete: AUC of 0.9160493355324996, lift of 18.4683571479688
+05/16/25:02:26:58: prediction of PIM1 complete: AUC of 0.9179713766008549, lift of 11.664225567138189
+05/16/25:02:49:55: prediction of OX1R complete: AUC of 0.9298804352629385, lift of 14.580281958922736
+05/16/25:03:12:22: prediction of CLKs complete: AUC of 0.8646053732224572, lift of 10.797032326444091
+05/16/25:03:34:34: prediction of TLRs complete: AUC of 0.8880713728191665, lift of 15.704774293009587
+05/16/25:03:56:19: prediction of ACC2 complete: AUC of 0.9950431717465054, lift of 89.21400248132922
+05/16/25:04:18:32: prediction of Coagulation factor complete: AUC of 0.8371891584316746, lift of 10.903933636606904
+05/16/25:04:40:46: prediction of PARP1 complete: AUC of 0.9514421070861976, lift of 25.772934050161773
+05/16/25:05:02:13: prediction of S1PRs complete: AUC of 0.9633929098602637, lift of 50.058968058968055
+05/16/25:05:24:07: prediction of IRAKs complete: AUC of 0.8915819966542019, lift of 13.015331695331696
+05/16/25:05:45:41: prediction of CDK2 complete: AUC of 0.8505328675457586, lift of 16.018869778869778
