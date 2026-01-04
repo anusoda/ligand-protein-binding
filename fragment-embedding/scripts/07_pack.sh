@@ -1,1 +1,0 @@
-python -m tf2onnx.convert --saved-model ../results/encoder_model --output ../results/encoder_model.onnx
