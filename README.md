@@ -18,7 +18,6 @@ The repository is structured as follows:
 
 The database files required to run these models (including pre-processed data for BindingDB, DUD-E, DepMap, and BRD9 DEL) are hosted externally:
 
-> [!IMPORTANT]
 > **Download Data:** [Google Drive Link](https://drive.google.com/drive/folders/16vhVYHk1MJDK8n7P36uL1gruSRK_hNeo?usp=sharing)
 
 | Dataset | Description |
