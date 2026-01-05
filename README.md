@@ -1,4 +1,4 @@
-# Interpretable Prediction of Ligand-Protein Binding
+# Interpretable prediction of ligand-protein binding without protein structural information
 
 This project introduces a **ligand-only framework** designed to predict ligand-protein binding affinities without the need for protein structural information.
 
